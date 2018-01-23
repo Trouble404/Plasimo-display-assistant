@@ -7,6 +7,13 @@ C++  Final Year Project in Undergraduate
 [Plasimo Display Assistant](https://github.com/Trouble404/Plasimo-display-assistant/tree/master/Plasimo%20Display%20Assistant) is a c++ based user-friendly interface to check the changing processing of [Plasma](https://en.wikipedia.org/wiki/Plasma_(physics))
 
 ---
+## Steps and tools
+* Prototype design by [Mockplus](https://www.mockplus.cn/)
+* [OpenCV](https://opencv.org/) and [OpenGL](https://www.opengl.org/) are used to render the image
+* [MFC](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library) used to build the dialogs in this software
+* [Visual Studio 2015](https://www.kunal-chowdhury.com/2015/07/download-visualstudio-2015.html#5dp0esgEMVEyXOhd.97) used to write the function in each dialogs
+
+---
 
 ## Vedio instruction
 It could see at [here](https://stream.liv.ac.uk/zmx3hu6s)
@@ -14,6 +21,7 @@ It could see at [here](https://stream.liv.ac.uk/zmx3hu6s)
 
 ## Dowload and Configuration
 *  Before open this software, user need use **Plasimo** to obtain experiment data.
+*  Install the [Visual Studio 2015](https://www.kunal-chowdhury.com/2015/07/download-visualstudio-2015.html#5dp0esgEMVEyXOhd.97)
 *  The openCV enviroment need to install, the configuration instruction is under **openCV配置** folder
 *  The plasimo display assistant configuration instrction is in the **ProgramSpecification.pdf** under **Plasimo display assistant** folder
 *  Dowload address：https://pan.baidu.com/s/1o9FaAJC 密码(pin)：0qv4
