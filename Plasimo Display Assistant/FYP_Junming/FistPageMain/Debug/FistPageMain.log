@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FistPageMain.vcxproj, Junming_Zhang_FYP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  SVRead.cpp
+  Page1.cpp
+c:\users\msi\desktop\plasimo display assistant\fyp_junming\fistpagemain\page1.cpp(49): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'int', possible loss of data
+  MyPropertySheet.cpp
+  MyOpenGLView1.cpp
+c:\users\msi\desktop\plasimo display assistant\fyp_junming\fistpagemain\myopenglview1.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\msi\desktop\plasimo display assistant\fyp_junming\fistpagemain\myopenglview1.cpp(353): warning C4018: '<': signed/unsigned mismatch
+  MyOpenGLView.cpp
+  MenuDlg.cpp
+  FistPageMainDlg.cpp
+  FistPageMain.cpp
+  DialogGl.cpp
+  CvvImage.cpp
+  Generating Code...
+  FistPageMain.vcxproj -> C:\Users\MSI\Desktop\Plasimo Display Assistant\FYP_Junming\Debug\Plasimo Display Assistant.exe
+  FistPageMain.vcxproj -> C:\Users\MSI\Desktop\Plasimo Display Assistant\FYP_Junming\Debug\Plasimo Display Assistant.pdb (Partial PDB)

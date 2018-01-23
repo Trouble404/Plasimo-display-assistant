@@ -1,0 +1,32 @@
+iter                                   5530
+t                                      4.99421E-005 s
+dt                                     1E-008       s
+
+Er                                     62.09        V m-1 Pa-1
+
+epsilon                                14.15        eV
+ElectronEnergy                         4.958E+018   eV m^-3
+n e                                 9.066E+017   m^-3
+n He+                               9.267E+017   m^-3
+n Cu                                6.842E+017   m^-3
+n Cu+                               1.538E+015   m^-3
+D e                                 144.5        m^2/s
+D He+                               0.02739      m^2/s
+D Cu                                0.007744     m^2/s
+D Cu+                               0.3628       m^2/s
+
+Relas Elastic losses                   2.937E+006   J m^-3 s-1
+
+R0   e + He <=> e + e + He+            5.309E+023   m^-3 s-1
+R1   He+ + Cu <=> He + Cu+             3.289E+020   m^-3 s-1
+R2   e + Cu <=> Cu+ + e + e            3.306E+021   m^-3 s-1
+
+V1                                     -300         V
+V2                                     0            V
+
+I1                                     0.1022       A
+I2                                     -0.1022      A
+
+P                                      30.64        W
+
+

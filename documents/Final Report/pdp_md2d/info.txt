@@ -1,0 +1,574 @@
+iter                                   1077
+t                                      1.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.58        V m-1 Pa-1
+
+epsilon                                10.05        eV
+ElectronEnergy                         2.898E+017   eV m^-3
+n e                                 3.21E+016    m^-3
+n He+                               3.74E+017    m^-3
+n He2+                              2.905E+016   m^-3
+n He*                               6.93E+018    m^-3
+n e*                                3.821E+014   m^-3
+D e                                 2.433        m^2/s
+D He+                               0.000191     m^2/s
+D He2+                              0.0008736    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   6.593E+007   J m^-3 s-1
+
+R0   e + He <=> e + He*                1.294E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           3.707E+022   m^-3 s-1
+R2   e + He <=> e + e + He+            1.224E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       1.655E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       6.981E+022   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.629E+023   m^-3 s-1
+R6   He* + e <=> He + e*               9.737E+020   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       1.064E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.001202     A
+I2                                     -0.001278    A
+I4                                     6.966E-005   A
+
+P                                      0.3302       W
+
+
+iter                                   1177
+t                                      2.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     18.92        V m-1 Pa-1
+
+epsilon                                9.095        eV
+ElectronEnergy                         1.114E+018   eV m^-3
+n e                                 1.376E+017   m^-3
+n He+                               5.775E+017   m^-3
+n He2+                              1.023E+017   m^-3
+n He*                               2.558E+019   m^-3
+n e*                                8.02E+015    m^-3
+D e                                 2.199        m^2/s
+D He+                               0.0001833    m^2/s
+D He2+                              0.0007911    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   1.464E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                2.91E+025    m^-3 s-1
+R1   e + He* <=> e + e + He+           6.161E+023   m^-3 s-1
+R2   e + He <=> e + e + He+            2.544E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       2.585E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       1.064E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           2.483E+024   m^-3 s-1
+R6   He* + e <=> He + e*               1.808E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       2.705E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.003029     A
+I2                                     -0.003058    A
+I4                                     2.376E-005   A
+
+P                                      0.8442       W
+
+
+iter                                   1277
+t                                      3.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.27        V m-1 Pa-1
+
+epsilon                                8.662        eV
+ElectronEnergy                         1.838E+018   eV m^-3
+n e                                 2.408E+017   m^-3
+n He+                               6.858E+017   m^-3
+n He2+                              1.998E+017   m^-3
+n He*                               4.097E+019   m^-3
+n e*                                2.429E+016   m^-3
+D e                                 2.092        m^2/s
+D He+                               0.0001839    m^2/s
+D He2+                              0.0007952    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   1.847E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.527E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           1.61E+024    m^-3 s-1
+R2   e + He <=> e + e + He+            3.067E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.072E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       2.731E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           6.371E+024   m^-3 s-1
+R6   He* + e <=> He + e*               4.987E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       5.152E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.00414      A
+I2                                     -0.004151    A
+I4                                     6.918E-006   A
+
+P                                      1.157        W
+
+
+iter                                   1377
+t                                      4.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.53        V m-1 Pa-1
+
+epsilon                                8.483        eV
+ElectronEnergy                         2.258E+018   eV m^-3
+n e                                 3.031E+017   m^-3
+n He+                               7.487E+017   m^-3
+n He2+                              2.533E+017   m^-3
+n He*                               4.868E+019   m^-3
+n e*                                3.588E+016   m^-3
+D e                                 2.046        m^2/s
+D He+                               0.0001849    m^2/s
+D He2+                              0.0008037    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.029E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.779E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.286E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.264E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.356E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       3.786E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           8.834E+024   m^-3 s-1
+R6   He* + e <=> He + e*               7.255E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       6.86E+024    m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004685     A
+I2                                     -0.004689    A
+I4                                     1.537E-006   A
+
+P                                      1.311        W
+
+
+iter                                   1477
+t                                      5.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.64        V m-1 Pa-1
+
+epsilon                                8.426        eV
+ElectronEnergy                         2.418E+018   eV m^-3
+n e                                 3.27E+017    m^-3
+n He+                               7.734E+017   m^-3
+n He2+                              2.732E+017   m^-3
+n He*                               5.193E+019   m^-3
+n e*                                4.07E+016    m^-3
+D e                                 2.031        m^2/s
+D He+                               0.0001854    m^2/s
+D He2+                              0.0008075    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.096E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.87E+025    m^-3 s-1
+R1   e + He* <=> e + e + He+           2.554E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.328E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.468E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.218E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           9.842E+024   m^-3 s-1
+R6   He* + e <=> He + e*               8.169E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.572E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004884     A
+I2                                     -0.004886    A
+I4                                     6.91E-007    A
+
+P                                      1.367        W
+
+
+iter                                   1577
+t                                      6.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.67        V m-1 Pa-1
+
+epsilon                                8.405        eV
+ElectronEnergy                         2.477E+018   eV m^-3
+n e                                 3.359E+017   m^-3
+n He+                               7.822E+017   m^-3
+n He2+                              2.806E+017   m^-3
+n He*                               5.332E+019   m^-3
+n e*                                4.243E+016   m^-3
+D e                                 2.026        m^2/s
+D He+                               0.0001855    m^2/s
+D He2+                              0.0008084    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.119E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.899E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.649E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.35E+025    m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.508E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.376E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.021E+025   m^-3 s-1
+R6   He* + e <=> He + e*               8.5E+022     m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.82E+024    m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004952     A
+I2                                     -0.004953    A
+I4                                     4.269E-007   A
+
+P                                      1.387        W
+
+
+iter                                   1677
+t                                      7.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.68        V m-1 Pa-1
+
+epsilon                                8.397        eV
+ElectronEnergy                         2.499E+018   eV m^-3
+n e                                 3.393E+017   m^-3
+n He+                               7.855E+017   m^-3
+n He2+                              2.835E+017   m^-3
+n He*                               5.395E+019   m^-3
+n e*                                4.306E+016   m^-3
+D e                                 2.024        m^2/s
+D He+                               0.0001856    m^2/s
+D He2+                              0.0008086    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.127E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.908E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.684E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.357E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.523E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.435E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.035E+025   m^-3 s-1
+R6   He* + e <=> He + e*               8.624E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.904E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004976     A
+I2                                     -0.004976    A
+I4                                     2.503E-007   A
+
+P                                      1.393        W
+
+
+iter                                   1777
+t                                      8.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.68        V m-1 Pa-1
+
+epsilon                                8.394        eV
+ElectronEnergy                         2.508E+018   eV m^-3
+n e                                 3.408E+017   m^-3
+n He+                               7.867E+017   m^-3
+n He2+                              2.848E+017   m^-3
+n He*                               5.426E+019   m^-3
+n e*                                4.33E+016    m^-3
+D e                                 2.023        m^2/s
+D He+                               0.0001856    m^2/s
+D He2+                              0.0008085    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.13E+008    J m^-3 s-1
+
+R0   e + He <=> e + He*                3.91E+025    m^-3 s-1
+R1   e + He* <=> e + e + He+           2.697E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.36E+025    m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.528E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.459E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.04E+025    m^-3 s-1
+R6   He* + e <=> He + e*               8.672E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.933E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004984     A
+I2                                     -0.004984    A
+I4                                     1.466E-007   A
+
+P                                      1.395        W
+
+
+iter                                   1877
+t                                      9.00397E-006 s
+dt                                     1E-008       s
+
+Er                                     19.68        V m-1 Pa-1
+
+epsilon                                8.393        eV
+ElectronEnergy                         2.512E+018   eV m^-3
+n e                                 3.414E+017   m^-3
+n He+                               7.872E+017   m^-3
+n He2+                              2.854E+017   m^-3
+n He*                               5.443E+019   m^-3
+n e*                                4.339E+016   m^-3
+D e                                 2.023        m^2/s
+D He+                               0.0001856    m^2/s
+D He2+                              0.0008084    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.131E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.911E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.703E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.36E+025    m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.531E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.469E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.043E+025   m^-3 s-1
+R6   He* + e <=> He + e*               8.693E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.944E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004987     A
+I2                                     -0.004987    A
+I4                                     8.765E-008   A
+
+P                                      1.396        W
+
+
+iter                                   1977
+t                                      1E-005       s
+dt                                     6.635E-009   s
+
+Er                                     19.68        V m-1 Pa-1
+
+epsilon                                8.392        eV
+ElectronEnergy                         2.514E+018   eV m^-3
+n e                                 3.417E+017   m^-3
+n He+                               7.874E+017   m^-3
+n He2+                              2.857E+017   m^-3
+n He*                               5.452E+019   m^-3
+n e*                                4.344E+016   m^-3
+D e                                 2.022        m^2/s
+D He+                               0.0001856    m^2/s
+D He2+                              0.0008084    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   2.131E+008   J m^-3 s-1
+
+R0   e + He <=> e + He*                3.911E+025   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.705E+024   m^-3 s-1
+R2   e + He <=> e + e + He+            3.361E+025   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       3.532E+024   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.474E+024   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.044E+025   m^-3 s-1
+R6   He* + e <=> He + e*               8.703E+022   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       7.948E+024   m^-3 s-1
+
+V1                                     -300         V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     0.004988     A
+I2                                     -0.004988    A
+I4                                     7.171E-008   A
+
+P                                      1.397        W
+
+
+iter                                   2606
+t                                      2.00124E-005 s
+dt                                     2E-008       s
+
+Er                                     1.968        V m-1 Pa-1
+
+epsilon                                4.127        eV
+ElectronEnergy                         5.678E+014   eV m^-3
+n e                                 1.452E+014   m^-3
+n He+                               6.555E+015   m^-3
+n He2+                              2.98E+016    m^-3
+n He*                               5.661E+018   m^-3
+n e*                                1.548E+014   m^-3
+D e                                 0.9263       m^2/s
+D He+                               0.000114     m^2/s
+D He2+                              0.0002007    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   1.294E+004   J m^-3 s-1
+
+R0   e + He <=> e + He*                1.691E+020   m^-3 s-1
+R1   e + He* <=> e + e + He+           2.78E+019    m^-3 s-1
+R2   e + He <=> e + e + He+            2.71E+018    m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       2.952E+022   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       3.87E+022    m^-3 s-1
+R5   He* + He* <=> He2+ + e*           9.031E+022   m^-3 s-1
+R6   He* + e <=> He + e*               3.159E+018   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       2.014E+019   m^-3 s-1
+
+V1                                     0            V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     -2.262E-006  A
+I2                                     3.653E-006   A
+I4                                     -1.363E-006  A
+
+P                                      5.779E-005   W
+
+
+iter                                   3106
+t                                      3.00124E-005 s
+dt                                     2E-008       s
+
+Er                                     1.382        V m-1 Pa-1
+
+epsilon                                4.33         eV
+ElectronEnergy                         6.291E+013   eV m^-3
+n e                                 1.443E+013   m^-3
+n He+                               1.022E+015   m^-3
+n He2+                              1.021E+016   m^-3
+n He*                               1.969E+018   m^-3
+n e*                                1.853E+013   m^-3
+D e                                 0.9651       m^2/s
+D He+                               0.0001139    m^2/s
+D He2+                              0.000199     m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   1473         J m^-3 s-1
+
+R0   e + He <=> e + He*                2.973E+019   m^-3 s-1
+R1   e + He* <=> e + e + He+           1.075E+018   m^-3 s-1
+R2   e + He <=> e + e + He+            4.728E+017   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       4.601E+021   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       4.904E+021   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           1.144E+022   m^-3 s-1
+R6   He* + e <=> He + e*               9.809E+016   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       5.323E+017   m^-3 s-1
+
+V1                                     0            V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     -4.126E-007  A
+I2                                     9.619E-007   A
+I4                                     -5.428E-007  A
+
+P                                      1.094E-005   W
+
+
+iter                                   3606
+t                                      4E-005       s
+dt                                     8.669E-009   s
+
+Er                                     1.302        V m-1 Pa-1
+
+epsilon                                4.351        eV
+ElectronEnergy                         1.077E+013   eV m^-3
+n e                                 2.297E+012   m^-3
+n He+                               2.022E+014   m^-3
+n He2+                              3.208E+015   m^-3
+n He*                               8.454E+017   m^-3
+n e*                                3.435E+012   m^-3
+D e                                 0.9709       m^2/s
+D He+                               0.000114     m^2/s
+D He2+                              0.0001997    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   258          J m^-3 s-1
+
+R0   e + He <=> e + He*                7.737E+018   m^-3 s-1
+R1   e + He* <=> e + e + He+           8.065E+016   m^-3 s-1
+R2   e + He <=> e + e + He+            1.403E+017   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       9.081E+020   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       9.241E+020   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           2.156E+021   m^-3 s-1
+R6   He* + e <=> He + e*               6.169E+015   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       5.401E+015   m^-3 s-1
+
+V1                                     0            V
+V2                                     -20          V
+V4                                     0            V
+
+I1                                     -1.113E-007  A
+I2                                     3.216E-007   A
+I4                                     -2.069E-007  A
+
+P                                      2.983E-006   W
+
+
+iter                                   6752
+t                                      0.0001       s
+dt                                     5.507E-009   s
+
+Er                                     3.455        V m-1 Pa-1
+
+epsilon                                5.822        eV
+ElectronEnergy                         2.379E+009   eV m^-3
+n e                                 4.311E+008   m^-3
+n He+                               2.861E+010   m^-3
+n He2+                              1.536E+011   m^-3
+n He*                               1.101E+016   m^-3
+n e*                                5.72E+008    m^-3
+D e                                 1.282        m^2/s
+D He+                               0.0001179    m^2/s
+D He2+                              0.0002474    m^2/s
+D He*                               0.000225     m^2/s
+D e*                                3.418        m^2/s
+
+Relas Elastic losses                   0.07485      J m^-3 s-1
+
+R0   e + He <=> e + He*                9.118E+015   m^-3 s-1
+R1   e + He* <=> e + e + He+           3.441E+011   m^-3 s-1
+R2   e + He <=> e + e + He+            1.729E+015   m^-3 s-1
+R3   He+ + He + He <=> He2+ + He       1.284E+017   m^-3 s-1
+R4   He* + He* <=> He+ + He + e*       1.604E+017   m^-3 s-1
+R5   He* + He* <=> He2+ + e*           3.743E+017   m^-3 s-1
+R6   He* + e <=> He + e*               1.694E+010   m^-3 s-1
+R7   He2+ + He <=> He+ + He + He       3.467E+012   m^-3 s-1
+
+V1                                     0            V
+V2                                     20           V
+V4                                     0            V
+
+I1                                     -5.91E-011   A
+I2                                     -5.174E-011  A
+I4                                     8.525E-011   A
+
+P                                      7.601E-010   W
+
+

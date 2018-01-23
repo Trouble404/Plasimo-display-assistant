@@ -1,0 +1,42 @@
+﻿生成启动时间为 2016/11/28 15:49:14。
+     1>项目“D:\Work\FYP\FYP data\Qt 鼠标移动\www528\untitled2\untitled2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\My Programs\Microsoft Visual Studio 2013\VC\bin\x86_amd64\CL.exe /c /I. /IC:\qt\qt5.7.0\5.7\msvc2013_64\include /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtGui /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtANGLE /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtCore /Idebug /I"C:\qt\qt5.7.0\5.7\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W3 /WX- /Od /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt -w34100 -w34189 -w44996 GeneratedFiles\Debug\moc_keyevent.cpp keyevent.cpp main.cpp
+         moc_keyevent.cpp
+     1>d:\work\fyp\fyp data\qt 鼠标移动\www528\untitled2\generatedfiles\debug\../../keyevent.h(7): error C2504: “QWidget”: 未定义基类
+     1>GeneratedFiles\Debug\moc_keyevent.cpp(64): error C2027: 使用了未定义类型“QWidget”
+                 C:\qt\qt5.7.0\5.7\msvc2013_64\include\QtCore/qmetatype.h(1334) : 参见“QWidget”的声明
+     1>GeneratedFiles\Debug\moc_keyevent.cpp(71): error C2227: “->metaObject”的左边必须指向类/结构/联合/泛型类型
+     1>GeneratedFiles\Debug\moc_keyevent.cpp(71): error C2227: “->dynamicMetaObject”的左边必须指向类/结构/联合/泛型类型
+     1>GeneratedFiles\Debug\moc_keyevent.cpp(79): error C2027: 使用了未定义类型“QWidget”
+                 C:\qt\qt5.7.0\5.7\msvc2013_64\include\QtCore/qmetatype.h(1334) : 参见“QWidget”的声明
+     1>GeneratedFiles\Debug\moc_keyevent.cpp(84): error C2027: 使用了未定义类型“QWidget”
+                 C:\qt\qt5.7.0\5.7\msvc2013_64\include\QtCore/qmetatype.h(1334) : 参见“QWidget”的声明
+         keyevent.cpp
+     1>d:\work\fyp\fyp data\qt 鼠标移动\www528\untitled2\keyevent.h(7): error C2504: “QWidget”: 未定义基类
+     1>keyevent.cpp(5): error C2614: “KeyEvent”: 非法的成员初始化:“QWidget”不是基或成员
+     1>keyevent.cpp(6): error C3861: “setWindowTitle”:  找不到标识符
+     1>keyevent.cpp(8): error C3861: “setAutoFillBackground”:  找不到标识符
+     1>keyevent.cpp(10): error C2039: “palette”: 不是“KeyEvent”的成员
+                 d:\work\fyp\fyp data\qt 鼠标移动\www528\untitled2\keyevent.h(6) : 参见“KeyEvent”的声明
+     1>keyevent.cpp(12): error C3861: “setPalette”:  找不到标识符
+     1>keyevent.cpp(14): error C3861: “setMinimumSize”:  找不到标识符
+     1>keyevent.cpp(15): error C3861: “setMaximumSize”:  找不到标识符
+     1>keyevent.cpp(17): error C2228: “.width”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>keyevent.cpp(17): error C3861: “size”:  找不到标识符
+     1>keyevent.cpp(18): error C2228: “.height”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>keyevent.cpp(18): error C3861: “size”:  找不到标识符
+     1>keyevent.cpp(113): error C3861: “update”:  找不到标识符
+     1>keyevent.cpp(118): error C2664: “QPainter::QPainter(const QPainter &)”: 无法将参数 1 从“KeyEvent *const ”转换为“QPaintDevice *”
+                 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+         main.cpp
+     1>d:\work\fyp\fyp data\qt 鼠标移动\www528\untitled2\keyevent.h(7): error C2504: “QWidget”: 未定义基类
+     1>main.cpp(2): fatal error C1083: 无法打开包括文件: “QApplication”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“D:\Work\FYP\FYP data\Qt 鼠标移动\www528\untitled2\untitled2.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:04.45

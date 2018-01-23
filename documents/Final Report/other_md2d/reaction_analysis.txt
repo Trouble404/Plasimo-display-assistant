@@ -1,0 +1,900 @@
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.00608E+015      3.00608E+015      0                 3.04444E+008      2.2015E+008       
+total_destruction               0                 -2.2015E+008      -3.04444E+008     0                 -3.00608E+015     
+Rr/Dr                           X                 1.36547E+007      0                 X                 7.3235E-008       
+
+e + He <=> e + e + He+          1                 1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.723122         0.723122          1                 
+e + Cu <=> Cu+ + e + e          2.80412E-008      X                 -0.276878         0.276878          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                1.17944E+016      1.17943E+016      0                 1.48067E+010      5.11584E+009      
+total_destruction               0                 -5.11584E+009     -1.48067E+010     0                 -1.17943E+016     
+Rr/Dr                           X                 2.30545E+006      0                 X                 4.33754E-007      
+
+e + He <=> e + e + He+          0.999999          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.345508         0.345508          1                 
+e + Cu <=> Cu+ + e + e          8.21655E-007      X                 -0.654492         0.654492          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.12441E+016      3.12439E+016      0                 2.93883E+011      4.62894E+010      
+total_destruction               0                 -4.62894E+010     -2.93883E+011     0                 -3.12439E+016     
+Rr/Dr                           X                 674969            0                 X                 1.48155E-006      
+
+e + He <=> e + e + He+          0.999992          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.157509         0.157509          1                 
+e + Cu <=> Cu+ + e + e          7.92449E-006      X                 -0.842491         0.842491          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.73022E+016      5.73001E+016      0                 2.33061E+012      2.48227E+011      
+total_destruction               0                 -2.48227E+011     -2.33061E+012     0                 -5.73001E+016     
+Rr/Dr                           X                 230837            0                 X                 4.33206E-006      
+
+e + He <=> e + e + He+          0.999964          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.106508         0.106508          1                 
+e + Cu <=> Cu+ + e + e          3.63403E-005      X                 -0.893492         0.893492          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                8.50109E+016      8.50023E+016      0                 9.48004E+012      8.52474E+011      
+total_destruction               0                 -8.52474E+011     -9.48004E+012     0                 -8.50023E+016     
+Rr/Dr                           X                 99712.4           0                 X                 1.00288E-005      
+
+e + He <=> e + e + He+          0.999899          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.089923         0.089923          1                 
+e + Cu <=> Cu+ + e + e          0.000101488       X                 -0.910077         0.910077          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                1.15067E+017      1.15044E+017      0                 2.54934E+013      2.14372E+012      
+total_destruction               0                 -2.14372E+012     -2.54934E+013     0                 -1.15044E+017     
+Rr/Dr                           X                 53665.4           0                 X                 1.8634E-005       
+
+e + He <=> e + e + He+          0.999797          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0840894        0.0840894         1                 
+e + Cu <=> Cu+ + e + e          0.000202922       X                 -0.915911         0.915911          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                1.474E+017        1.47351E+017      0                 5.33719E+013      4.37081E+012      
+total_destruction               0                 -4.37081E+012     -5.33719E+013     0                 -1.47351E+017     
+Rr/Dr                           X                 33712.5           0                 X                 2.96626E-005      
+
+e + He <=> e + e + He+          0.999668          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0818934        0.0818934         1                 
+e + Cu <=> Cu+ + e + e          0.000332437       X                 -0.918107         0.918107          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                1.82229E+017      1.82142E+017      0                 9.5417E+013       7.73463E+012      
+total_destruction               0                 -7.73463E+012     -9.5417E+013      0                 -1.82142E+017     
+Rr/Dr                           X                 23548.8           0                 X                 4.24649E-005      
+
+e + He <=> e + e + He+          0.999519          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0810614        0.0810614         1                 
+e + Cu <=> Cu+ + e + e          0.000481165       X                 -0.918939         0.918939          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                2.19737E+017      2.19596E+017      0                 1.53543E+014      1.2406E+013       
+total_destruction               0                 -1.2406E+013      -1.53543E+014     0                 -2.19596E+017     
+Rr/Dr                           X                 17700.7           0                 X                 5.6495E-005       
+
+e + He <=> e + e + He+          0.999358          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0807985        0.0807985         1                 
+e + Cu <=> Cu+ + e + e          0.0006423         X                 -0.919201         0.919201          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                2.5999E+017       2.59779E+017      0                 2.29536E+014      1.85482E+013      
+total_destruction               0                 -1.85482E+013     -2.29536E+014     0                 -2.59779E+017     
+Rr/Dr                           X                 14005.6           0                 X                 7.13999E-005      
+
+e + He <=> e + e + He+          0.999188          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0808072        0.0808072         1                 
+e + Cu <=> Cu+ + e + e          0.000811524       X                 -0.919193         0.919193          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.02146E+017      3.01848E+017      0                 3.25032E+014      2.63145E+013      
+total_destruction               0                 -2.63145E+013     -3.25032E+014     0                 -3.01848E+017     
+Rr/Dr                           X                 11470.8           0                 X                 8.71779E-005      
+
+e + He <=> e + e + He+          0.999011          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0809596        0.0809596         1                 
+e + Cu <=> Cu+ + e + e          0.000988651       X                 -0.91904          0.91904           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.40542E+017      3.40137E+017      0                 4.40896E+014      3.58375E+013      
+total_destruction               0                 -3.58375E+013     -4.40896E+014     0                 -3.40137E+017     
+Rr/Dr                           X                 9491.09           0                 X                 0.000105362       
+
+e + He <=> e + e + He+          0.998811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0812833        0.0812833         1                 
+e + Cu <=> Cu+ + e + e          0.00118945        X                 -0.918717         0.918717          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.68097E+017      3.67569E+017      0                 5.74711E+014      4.70835E+013      
+total_destruction               0                 -4.70835E+013     -5.74711E+014     0                 -3.67569E+017     
+Rr/Dr                           X                 7806.75           0                 X                 0.000128094       
+
+e + He <=> e + e + He+          0.998567          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0819255        0.0819255         1                 
+e + Cu <=> Cu+ + e + e          0.00143339        X                 -0.918074         0.918074          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                3.89561E+017      3.88898E+017      0                 7.22969E+014      5.97908E+013      
+total_destruction               0                 -5.97908E+013     -7.22969E+014     0                 -3.88898E+017     
+Rr/Dr                           X                 6504.31           0                 X                 0.000153744       
+
+e + He <=> e + e + He+          0.998298          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0827018        0.0827018         1                 
+e + Cu <=> Cu+ + e + e          0.00170237        X                 -0.917298         0.917298          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.07128E+017      4.0632E+017       0                 8.81479E+014      7.36001E+013      
+total_destruction               0                 -7.36001E+013     -8.81479E+014     0                 -4.0632E+017      
+Rr/Dr                           X                 5520.65           0                 X                 0.000181138       
+
+e + He <=> e + e + He+          0.998016          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0834962        0.0834962         1                 
+e + Cu <=> Cu+ + e + e          0.00198433        X                 -0.916504         0.916504          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.22125E+017      4.21167E+017      0                 1.04606E+015      8.81207E+013      
+total_destruction               0                 -8.81207E+013     -1.04606E+015     0                 -4.21167E+017     
+Rr/Dr                           X                 4779.43           0                 X                 0.00020923        
+
+e + He <=> e + e + He+          0.997731          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0842406        0.0842406         1                 
+e + Cu <=> Cu+ + e + e          0.00226933        X                 -0.915759         0.915759          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.35011E+017      4.33901E+017      0                 1.21296E+015      1.02992E+014      
+total_destruction               0                 -1.02992E+014     -1.21296E+015     0                 -4.33901E+017     
+Rr/Dr                           X                 4212.95           0                 X                 0.000237363       
+
+e + He <=> e + e + He+          0.997448          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0849099        0.0849099         1                 
+e + Cu <=> Cu+ + e + e          0.00255158        X                 -0.91509          0.91509           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.46352E+017      4.45091E+017      0                 1.3793E+015       1.17924E+014      
+total_destruction               0                 -1.17924E+014     -1.3793E+015      0                 -4.45091E+017     
+Rr/Dr                           X                 3774.38           0                 X                 0.000264944       
+
+e + He <=> e + e + He+          0.997174          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0854956        0.0854956         1                 
+e + Cu <=> Cu+ + e + e          0.00282597        X                 -0.914504         0.914504          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.56599E+017      4.55188E+017      0                 1.54292E+015      1.32689E+014      
+total_destruction               0                 -1.32689E+014     -1.54292E+015     0                 -4.55188E+017     
+Rr/Dr                           X                 3430.48           0                 X                 0.000291504       
+
+e + He <=> e + e + He+          0.996911          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0859987        0.0859987         1                 
+e + Cu <=> Cu+ + e + e          0.00308856        X                 -0.914001         0.914001          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.65879E+017      4.64324E+017      0                 1.70212E+015      1.4713E+014       
+total_destruction               0                 -1.4713E+014      -1.70212E+015     0                 -4.64324E+017     
+Rr/Dr                           X                 3155.87           0                 X                 0.00031687        
+
+e + He <=> e + e + He+          0.996662          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0864396        0.0864396         1                 
+e + Cu <=> Cu+ + e + e          0.00333775        X                 -0.91356          0.91356           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.74198E+017      4.72504E+017      0                 1.85551E+015      1.61119E+014      
+total_destruction               0                 -1.61119E+014     -1.85551E+015     0                 -4.72504E+017     
+Rr/Dr                           X                 2932.64           0                 X                 0.000340989       
+
+e + He <=> e + e + He+          0.996427          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0868325        0.0868325         1                 
+e + Cu <=> Cu+ + e + e          0.00357317        X                 -0.913167         0.913167          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.81414E+017      4.79586E+017      0                 2.00183E+015      1.74547E+014      
+total_destruction               0                 -1.74547E+014     -2.00183E+015     0                 -4.79586E+017     
+Rr/Dr                           X                 2747.61           0                 X                 0.000363953       
+
+e + He <=> e + e + He+          0.996204          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0871935        0.0871935         1                 
+e + Cu <=> Cu+ + e + e          0.00379567        X                 -0.912807         0.912807          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.87719E+017      4.85766E+017      0                 2.14035E+015      1.8733E+014       
+total_destruction               0                 -1.8733E+014      -2.14035E+015     0                 -4.85766E+017     
+Rr/Dr                           X                 2593.11           0                 X                 0.000385638       
+
+e + He <=> e + e + He+          0.995996          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0875231        0.0875231         1                 
+e + Cu <=> Cu+ + e + e          0.00400439        X                 -0.912477         0.912477          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.93166E+017      4.91094E+017      0                 2.27052E+015      1.99412E+014      
+total_destruction               0                 -1.99412E+014     -2.27052E+015     0                 -4.91094E+017     
+Rr/Dr                           X                 2462.72           0                 X                 0.000406056       
+
+e + He <=> e + e + He+          0.9958            1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0878265        0.0878265         1                 
+e + Cu <=> Cu+ + e + e          0.00419962        X                 -0.912174         0.912174          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                4.97904E+017      4.95723E+017      0                 2.39215E+015      2.10752E+014      
+total_destruction               0                 -2.10752E+014     -2.39215E+015     0                 -4.95723E+017     
+Rr/Dr                           X                 2352.17           0                 X                 0.00042514        
+
+e + He <=> e + e + He+          0.995619          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0881015        0.0881015         1                 
+e + Cu <=> Cu+ + e + e          0.00438115        X                 -0.911899         0.911899          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.02082E+017      4.99798E+017      0                 2.50524E+015      2.21332E+014      
+total_destruction               0                 -2.21332E+014     -2.50524E+015     0                 -4.99798E+017     
+Rr/Dr                           X                 2258.14           0                 X                 0.000442842       
+
+e + He <=> e + e + He+          0.995451          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0883476        0.0883476         1                 
+e + Cu <=> Cu+ + e + e          0.00454887        X                 -0.911652         0.911652          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.05727E+017      5.03348E+017      0                 2.60991E+015      2.31158E+014      
+total_destruction               0                 -2.31158E+014     -2.60991E+015     0                 -5.03348E+017     
+Rr/Dr                           X                 2177.51           0                 X                 0.000459241       
+
+e + He <=> e + e + He+          0.995296          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0885694        0.0885694         1                 
+e + Cu <=> Cu+ + e + e          0.00470362        X                 -0.911431         0.911431          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.08903E+017      5.06437E+017      0                 2.70632E+015      2.40243E+014      
+total_destruction               0                 -2.40243E+014     -2.70632E+015     0                 -5.06437E+017     
+Rr/Dr                           X                 2108.02           0                 X                 0.000474378       
+
+e + He <=> e + e + He+          0.995154          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0887709        0.0887709         1                 
+e + Cu <=> Cu+ + e + e          0.00484587        X                 -0.911229         0.911229          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.11676E+017      5.0913E+017       0                 2.79481E+015      2.48603E+014      
+total_destruction               0                 -2.48603E+014     -2.79481E+015     0                 -5.0913E+017      
+Rr/Dr                           X                 2047.96           0                 X                 0.000488291       
+
+e + He <=> e + e + He+          0.995024          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0889518        0.0889518         1                 
+e + Cu <=> Cu+ + e + e          0.00497621        X                 -0.911048         0.911048          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.14084E+017      5.11464E+017      0                 2.87571E+015      2.5627E+014       
+total_destruction               0                 -2.5627E+014      -2.87571E+015     0                 -5.11464E+017     
+Rr/Dr                           X                 1995.8            0                 X                 0.000501052       
+
+e + He <=> e + e + He+          0.994905          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0891154        0.0891154         1                 
+e + Cu <=> Cu+ + e + e          0.00509536        X                 -0.910885         0.910885          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.16212E+017      5.13526E+017      0                 2.94952E+015      2.6328E+014       
+total_destruction               0                 -2.6328E+014      -2.94952E+015     0                 -5.13526E+017     
+Rr/Dr                           X                 1950.49           0                 X                 0.00051269        
+
+e + He <=> e + e + He+          0.994796          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0892619        0.0892619         1                 
+e + Cu <=> Cu+ + e + e          0.00520375        X                 -0.910738         0.910738          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.18094E+017      5.15347E+017      0                 3.01668E+015      2.69671E+014      
+total_destruction               0                 -2.69671E+014     -3.01668E+015     0                 -5.15347E+017     
+Rr/Dr                           X                 1911.02           0                 X                 0.00052328        
+
+e + He <=> e + e + He+          0.994698          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0893931        0.0893931         1                 
+e + Cu <=> Cu+ + e + e          0.00530215        X                 -0.910607         0.910607          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.19743E+017      5.16941E+017      0                 3.07765E+015      2.75484E+014      
+total_destruction               0                 -2.75484E+014     -3.07765E+015     0                 -5.16941E+017     
+Rr/Dr                           X                 1876.48           0                 X                 0.000532913       
+
+e + He <=> e + e + He+          0.994609          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0895112        0.0895112         1                 
+e + Cu <=> Cu+ + e + e          0.00539145        X                 -0.910489         0.910489          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.21189E+017      5.18336E+017      0                 3.13289E+015      2.80761E+014      
+total_destruction               0                 -2.80761E+014     -3.13289E+015     0                 -5.18336E+017     
+Rr/Dr                           X                 1846.19           0                 X                 0.000541658       
+
+e + He <=> e + e + He+          0.994528          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0896172        0.0896172         1                 
+e + Cu <=> Cu+ + e + e          0.00547236        X                 -0.910383         0.910383          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.22494E+017      5.19597E+017      0                 3.1829E+015       2.85539E+014      
+total_destruction               0                 -2.85539E+014     -3.1829E+015      0                 -5.19597E+017     
+Rr/Dr                           X                 1819.71           0                 X                 0.000549539       
+
+e + He <=> e + e + He+          0.994455          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0897104        0.0897104         1                 
+e + Cu <=> Cu+ + e + e          0.00554524        X                 -0.91029          0.91029           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.23661E+017      5.20723E+017      0                 3.2281E+015       2.89862E+014      
+total_destruction               0                 -2.89862E+014     -3.2281E+015      0                 -5.20723E+017     
+Rr/Dr                           X                 1796.45           0                 X                 0.000556652       
+
+e + He <=> e + e + He+          0.994389          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0897932        0.0897932         1                 
+e + Cu <=> Cu+ + e + e          0.00561096        X                 -0.910207         0.910207          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.24688E+017      5.21713E+017      0                 3.2689E+015       2.93768E+014      
+total_destruction               0                 -2.93768E+014     -3.2689E+015      0                 -5.21713E+017     
+Rr/Dr                           X                 1775.93           0                 X                 0.000563084       
+
+e + He <=> e + e + He+          0.99433           1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0898675        0.0898675         1                 
+e + Cu <=> Cu+ + e + e          0.00567029        X                 -0.910132         0.910132          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.2559E+017       5.22581E+017      0                 3.30566E+015      2.97293E+014      
+total_destruction               0                 -2.97293E+014     -3.30566E+015     0                 -5.22581E+017     
+Rr/Dr                           X                 1757.8            0                 X                 0.000568893       
+
+e + He <=> e + e + He+          0.994276          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0899345        0.0899345         1                 
+e + Cu <=> Cu+ + e + e          0.0057238         X                 -0.910065         0.910065          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.2639E+017       5.23351E+017      0                 3.33875E+015      3.00469E+014      
+total_destruction               0                 -3.00469E+014     -3.33875E+015     0                 -5.23351E+017     
+Rr/Dr                           X                 1741.78           0                 X                 0.000574125       
+
+e + He <=> e + e + He+          0.994228          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0899944        0.0899944         1                 
+e + Cu <=> Cu+ + e + e          0.00577193        X                 -0.910006         0.910006          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.27101E+017      5.24035E+017      0                 3.36852E+015      3.03328E+014      
+total_destruction               0                 -3.03328E+014     -3.36852E+015     0                 -5.24035E+017     
+Rr/Dr                           X                 1727.62           0                 X                 0.000578832       
+
+e + He <=> e + e + He+          0.994185          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0900479        0.0900479         1                 
+e + Cu <=> Cu+ + e + e          0.0058152         X                 -0.909952         0.909952          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.27738E+017      5.24649E+017      0                 3.39529E+015      3.059E+014        
+total_destruction               0                 -3.059E+014       -3.39529E+015     0                 -5.24649E+017     
+Rr/Dr                           X                 1715.1            0                 X                 0.000583056       
+
+e + He <=> e + e + He+          0.994146          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0900953        0.0900953         1                 
+e + Cu <=> Cu+ + e + e          0.00585401        X                 -0.909905         0.909905          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.28312E+017      5.25201E+017      0                 3.41934E+015      3.08211E+014      
+total_destruction               0                 -3.08211E+014     -3.41934E+015     0                 -5.25201E+017     
+Rr/Dr                           X                 1704.03           0                 X                 0.000586844       
+
+e + He <=> e + e + He+          0.994111          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0901374        0.0901374         1                 
+e + Cu <=> Cu+ + e + e          0.00588882        X                 -0.909863         0.909863          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.28829E+017      5.25698E+017      0                 3.44096E+015      3.10287E+014      
+total_destruction               0                 -3.10287E+014     -3.44096E+015     0                 -5.25698E+017     
+Rr/Dr                           X                 1694.23           0                 X                 0.000590238       
+
+e + He <=> e + e + He+          0.99408           1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0901747        0.0901747         1                 
+e + Cu <=> Cu+ + e + e          0.00592           X                 -0.909825         0.909825          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.2929E+017       5.26142E+017      0                 3.46036E+015      3.12153E+014      
+total_destruction               0                 -3.12153E+014     -3.46036E+015     0                 -5.26142E+017     
+Rr/Dr                           X                 1685.53           0                 X                 0.000593287       
+
+e + He <=> e + e + He+          0.994052          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0902081        0.0902081         1                 
+e + Cu <=> Cu+ + e + e          0.00594799        X                 -0.909792         0.909792          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.29701E+017      5.26537E+017      0                 3.47778E+015      3.13828E+014      
+total_destruction               0                 -3.13828E+014     -3.47778E+015     0                 -5.26537E+017     
+Rr/Dr                           X                 1677.79           0                 X                 0.000596023       
+
+e + He <=> e + e + He+          0.994027          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.090238         0.090238          1                 
+e + Cu <=> Cu+ + e + e          0.0059731         X                 -0.909762         0.909762          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.30072E+017      5.26894E+017      0                 3.49342E+015      3.15332E+014      
+total_destruction               0                 -3.15332E+014     -3.49342E+015     0                 -5.26894E+017     
+Rr/Dr                           X                 1670.92           0                 X                 0.000598473       
+
+e + He <=> e + e + He+          0.994004          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0902645        0.0902645         1                 
+e + Cu <=> Cu+ + e + e          0.00599558        X                 -0.909736         0.909736          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.30404E+017      5.27213E+017      0                 3.50745E+015      3.16682E+014      
+total_destruction               0                 -3.16682E+014     -3.50745E+015     0                 -5.27213E+017     
+Rr/Dr                           X                 1664.8            0                 X                 0.000600671       
+
+e + He <=> e + e + He+          0.993984          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0902882        0.0902882         1                 
+e + Cu <=> Cu+ + e + e          0.00601574        X                 -0.909712         0.909712          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.30699E+017      5.27497E+017      0                 3.52004E+015      3.17893E+014      
+total_destruction               0                 -3.17893E+014     -3.52004E+015     0                 -5.27497E+017     
+Rr/Dr                           X                 1659.35           0                 X                 0.000602644       
+
+e + He <=> e + e + He+          0.993966          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903095        0.0903095         1                 
+e + Cu <=> Cu+ + e + e          0.00603383        X                 -0.909691         0.909691          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.30962E+017      5.2775E+017       0                 3.53132E+015      3.18979E+014      
+total_destruction               0                 -3.18979E+014     -3.53132E+015     0                 -5.2775E+017      
+Rr/Dr                           X                 1654.49           0                 X                 0.000604414       
+
+e + He <=> e + e + He+          0.99395           1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903286        0.0903286         1                 
+e + Cu <=> Cu+ + e + e          0.00605005        X                 -0.909671         0.909671          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.31196E+017      5.27975E+017      0                 3.54144E+015      3.19954E+014      
+total_destruction               0                 -3.19954E+014     -3.54144E+015     0                 -5.27975E+017     
+Rr/Dr                           X                 1650.16           0                 X                 0.000606002       
+
+e + He <=> e + e + He+          0.993935          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903457        0.0903457         1                 
+e + Cu <=> Cu+ + e + e          0.00606458        X                 -0.909654         0.909654          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.31405E+017      5.28175E+017      0                 3.5505E+015       3.20827E+014      
+total_destruction               0                 -3.20827E+014     -3.5505E+015      0                 -5.28175E+017     
+Rr/Dr                           X                 1646.29           0                 X                 0.000607426       
+
+e + He <=> e + e + He+          0.993922          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903611        0.0903611         1                 
+e + Cu <=> Cu+ + e + e          0.00607762        X                 -0.909639         0.909639          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.31592E+017      5.28355E+017      0                 3.55862E+015      3.2161E+014       
+total_destruction               0                 -3.2161E+014      -3.55862E+015     0                 -5.28355E+017     
+Rr/Dr                           X                 1642.84           0                 X                 0.000608701       
+
+e + He <=> e + e + He+          0.993911          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903748        0.0903748         1                 
+e + Cu <=> Cu+ + e + e          0.00608929        X                 -0.909625         0.909625          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.31759E+017      5.28515E+017      0                 3.5659E+015       3.22311E+014      
+total_destruction               0                 -3.22311E+014     -3.5659E+015      0                 -5.28515E+017     
+Rr/Dr                           X                 1639.77           0                 X                 0.000609843       
+
+e + He <=> e + e + He+          0.9939            1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903871        0.0903871         1                 
+e + Cu <=> Cu+ + e + e          0.00609974        X                 -0.909613         0.909613          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.31907E+017      5.28658E+017      0                 3.57242E+015      3.2294E+014       
+total_destruction               0                 -3.2294E+014      -3.57242E+015     0                 -5.28658E+017     
+Rr/Dr                           X                 1637.02           0                 X                 0.000610868       
+
+e + He <=> e + e + He+          0.993891          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0903981        0.0903981         1                 
+e + Cu <=> Cu+ + e + e          0.00610911        X                 -0.909602         0.909602          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3204E+017       5.28786E+017      0                 3.57826E+015      3.23503E+014      
+total_destruction               0                 -3.23503E+014     -3.57826E+015     0                 -5.28786E+017     
+Rr/Dr                           X                 1634.56           0                 X                 0.000611785       
+
+e + He <=> e + e + He+          0.993883          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.090408         0.090408          1                 
+e + Cu <=> Cu+ + e + e          0.0061175         X                 -0.909592         0.909592          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32161E+017      5.28901E+017      0                 3.58349E+015      3.24008E+014      
+total_destruction               0                 -3.24008E+014     -3.58349E+015     0                 -5.28901E+017     
+Rr/Dr                           X                 1632.37           0                 X                 0.000612605       
+
+e + He <=> e + e + He+          0.993875          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904168        0.0904168         1                 
+e + Cu <=> Cu+ + e + e          0.00612499        X                 -0.909583         0.909583          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32269E+017      5.29005E+017      0                 3.58818E+015      3.2446E+014       
+total_destruction               0                 -3.2446E+014      -3.58818E+015     0                 -5.29005E+017     
+Rr/Dr                           X                 1630.42           0                 X                 0.000613339       
+
+e + He <=> e + e + He+          0.993868          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904247        0.0904247         1                 
+e + Cu <=> Cu+ + e + e          0.00613171        X                 -0.909575         0.909575          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32365E+017      5.29097E+017      0                 3.59237E+015      3.24865E+014      
+total_destruction               0                 -3.24865E+014     -3.59237E+015     0                 -5.29097E+017     
+Rr/Dr                           X                 1628.67           0                 X                 0.000613998       
+
+e + He <=> e + e + He+          0.993862          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904318        0.0904318         1                 
+e + Cu <=> Cu+ + e + e          0.00613773        X                 -0.909568         0.909568          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32452E+017      5.29181E+017      0                 3.59614E+015      3.25228E+014      
+total_destruction               0                 -3.25228E+014     -3.59614E+015     0                 -5.29181E+017     
+Rr/Dr                           X                 1627.11           0                 X                 0.000614587       
+
+e + He <=> e + e + He+          0.993857          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904381        0.0904381         1                 
+e + Cu <=> Cu+ + e + e          0.00614311        X                 -0.909562         0.909562          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3253E+017       5.29256E+017      0                 3.59951E+015      3.25553E+014      
+total_destruction               0                 -3.25553E+014     -3.59951E+015     0                 -5.29256E+017     
+Rr/Dr                           X                 1625.71           0                 X                 0.000615115       
+
+e + He <=> e + e + He+          0.993852          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904437        0.0904437         1                 
+e + Cu <=> Cu+ + e + e          0.00614793        X                 -0.909556         0.909556          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32601E+017      5.29324E+017      0                 3.60253E+015      3.25845E+014      
+total_destruction               0                 -3.25845E+014     -3.60253E+015     0                 -5.29324E+017     
+Rr/Dr                           X                 1624.47           0                 X                 0.000615587       
+
+e + He <=> e + e + He+          0.993848          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904488        0.0904488         1                 
+e + Cu <=> Cu+ + e + e          0.00615224        X                 -0.909551         0.909551          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32664E+017      5.29385E+017      0                 3.60524E+015      3.26106E+014      
+total_destruction               0                 -3.26106E+014     -3.60524E+015     0                 -5.29385E+017     
+Rr/Dr                           X                 1623.35           0                 X                 0.00061601        
+
+e + He <=> e + e + He+          0.993844          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904534        0.0904534         1                 
+e + Cu <=> Cu+ + e + e          0.00615611        X                 -0.909547         0.909547          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3272E+017       5.29439E+017      0                 3.60767E+015      3.26341E+014      
+total_destruction               0                 -3.26341E+014     -3.60767E+015     0                 -5.29439E+017     
+Rr/Dr                           X                 1622.35           0                 X                 0.00061639        
+
+e + He <=> e + e + He+          0.99384           1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904575        0.0904575         1                 
+e + Cu <=> Cu+ + e + e          0.00615958        X                 -0.909543         0.909543          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32771E+017      5.29487E+017      0                 3.60985E+015      3.26551E+014      
+total_destruction               0                 -3.26551E+014     -3.60985E+015     0                 -5.29487E+017     
+Rr/Dr                           X                 1621.45           0                 X                 0.000616731       
+
+e + He <=> e + e + He+          0.993837          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904612        0.0904612         1                 
+e + Cu <=> Cu+ + e + e          0.00616268        X                 -0.909539         0.909539          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32817E+017      5.29532E+017      0                 3.6118E+015       3.2674E+014       
+total_destruction               0                 -3.2674E+014      -3.6118E+015      0                 -5.29532E+017     
+Rr/Dr                           X                 1620.65           0                 X                 0.000617035       
+
+e + He <=> e + e + He+          0.993835          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904645        0.0904645         1                 
+e + Cu <=> Cu+ + e + e          0.00616546        X                 -0.909536         0.909536          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32858E+017      5.29571E+017      0                 3.61355E+015      3.26909E+014      
+total_destruction               0                 -3.26909E+014     -3.61355E+015     0                 -5.29571E+017     
+Rr/Dr                           X                 1619.94           0                 X                 0.000617308       
+
+e + He <=> e + e + He+          0.993832          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904674        0.0904674         1                 
+e + Cu <=> Cu+ + e + e          0.00616795        X                 -0.909533         0.909533          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32896E+017      5.29607E+017      0                 3.61512E+015      3.2706E+014       
+total_destruction               0                 -3.2706E+014      -3.61512E+015     0                 -5.29607E+017     
+Rr/Dr                           X                 1619.3            0                 X                 0.000617553       
+
+e + He <=> e + e + He+          0.99383           1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904701        0.0904701         1                 
+e + Cu <=> Cu+ + e + e          0.00617018        X                 -0.90953          0.90953           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32929E+017      5.2964E+017       0                 3.61653E+015      3.27197E+014      
+total_destruction               0                 -3.27197E+014     -3.61653E+015     0                 -5.2964E+017      
+Rr/Dr                           X                 1618.72           0                 X                 0.000617772       
+
+e + He <=> e + e + He+          0.993828          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904725        0.0904725         1                 
+e + Cu <=> Cu+ + e + e          0.00617218        X                 -0.909528         0.909528          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3296E+017       5.29669E+017      0                 3.6178E+015       3.27319E+014      
+total_destruction               0                 -3.27319E+014     -3.6178E+015      0                 -5.29669E+017     
+Rr/Dr                           X                 1618.2            0                 X                 0.000617969       
+
+e + He <=> e + e + He+          0.993826          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904746        0.0904746         1                 
+e + Cu <=> Cu+ + e + e          0.00617398        X                 -0.909525         0.909525          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.32987E+017      5.29695E+017      0                 3.61894E+015      3.27429E+014      
+total_destruction               0                 -3.27429E+014     -3.61894E+015     0                 -5.29695E+017     
+Rr/Dr                           X                 1617.74           0                 X                 0.000618146       
+
+e + He <=> e + e + He+          0.993824          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904766        0.0904766         1                 
+e + Cu <=> Cu+ + e + e          0.00617559        X                 -0.909523         0.909523          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3301E+017       5.29718E+017      0                 3.61995E+015      3.27528E+014      
+total_destruction               0                 -3.27528E+014     -3.61995E+015     0                 -5.29718E+017     
+Rr/Dr                           X                 1617.32           0                 X                 0.000618306       
+
+e + He <=> e + e + He+          0.993823          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904784        0.0904784         1                 
+e + Cu <=> Cu+ + e + e          0.00617704        X                 -0.909522         0.909522          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33032E+017      5.29739E+017      0                 3.62087E+015      3.27616E+014      
+total_destruction               0                 -3.27616E+014     -3.62087E+015     0                 -5.29739E+017     
+Rr/Dr                           X                 1616.95           0                 X                 0.000618448       
+
+e + He <=> e + e + He+          0.993822          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904799        0.0904799         1                 
+e + Cu <=> Cu+ + e + e          0.00617834        X                 -0.90952          0.90952           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33052E+017      5.29758E+017      0                 3.62169E+015      3.27696E+014      
+total_destruction               0                 -3.27696E+014     -3.62169E+015     0                 -5.29758E+017     
+Rr/Dr                           X                 1616.62           0                 X                 0.000618576       
+
+e + He <=> e + e + He+          0.993821          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904814        0.0904814         1                 
+e + Cu <=> Cu+ + e + e          0.0061795         X                 -0.909519         0.909519          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3307E+017       5.29776E+017      0                 3.62243E+015      3.27767E+014      
+total_destruction               0                 -3.27767E+014     -3.62243E+015     0                 -5.29776E+017     
+Rr/Dr                           X                 1616.32           0                 X                 0.00061869        
+
+e + He <=> e + e + He+          0.993819          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904826        0.0904826         1                 
+e + Cu <=> Cu+ + e + e          0.00618054        X                 -0.909517         0.909517          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33087E+017      5.29791E+017      0                 3.62309E+015      3.27831E+014      
+total_destruction               0                 -3.27831E+014     -3.62309E+015     0                 -5.29791E+017     
+Rr/Dr                           X                 1616.05           0                 X                 0.000618793       
+
+e + He <=> e + e + He+          0.993819          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904838        0.0904838         1                 
+e + Cu <=> Cu+ + e + e          0.00618148        X                 -0.909516         0.909516          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33101E+017      5.29805E+017      0                 3.62369E+015      3.27889E+014      
+total_destruction               0                 -3.27889E+014     -3.62369E+015     0                 -5.29805E+017     
+Rr/Dr                           X                 1615.81           0                 X                 0.000618887       
+
+e + He <=> e + e + He+          0.993818          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904848        0.0904848         1                 
+e + Cu <=> Cu+ + e + e          0.00618233        X                 -0.909515         0.909515          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33112E+017      5.29816E+017      0                 3.62422E+015      3.27941E+014      
+total_destruction               0                 -3.27941E+014     -3.62422E+015     0                 -5.29816E+017     
+Rr/Dr                           X                 1615.58           0                 X                 0.000618972       
+
+e + He <=> e + e + He+          0.993817          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904859        0.0904859         1                 
+e + Cu <=> Cu+ + e + e          0.00618309        X                 -0.909514         0.909514          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33124E+017      5.29827E+017      0                 3.6247E+015       3.27987E+014      
+total_destruction               0                 -3.27987E+014     -3.6247E+015      0                 -5.29827E+017     
+Rr/Dr                           X                 1615.39           0                 X                 0.000619046       
+
+e + He <=> e + e + He+          0.993816          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904867        0.0904867         1                 
+e + Cu <=> Cu+ + e + e          0.00618377        X                 -0.909513         0.909513          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33133E+017      5.29836E+017      0                 3.62513E+015      3.28029E+014      
+total_destruction               0                 -3.28029E+014     -3.62513E+015     0                 -5.29836E+017     
+Rr/Dr                           X                 1615.21           0                 X                 0.000619114       
+
+e + He <=> e + e + He+          0.993816          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904875        0.0904875         1                 
+e + Cu <=> Cu+ + e + e          0.00618438        X                 -0.909513         0.909513          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33142E+017      5.29845E+017      0                 3.62552E+015      3.28066E+014      
+total_destruction               0                 -3.28066E+014     -3.62552E+015     0                 -5.29845E+017     
+Rr/Dr                           X                 1615.05           0                 X                 0.000619174       
+
+e + He <=> e + e + He+          0.993815          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904882        0.0904882         1                 
+e + Cu <=> Cu+ + e + e          0.00618493        X                 -0.909512         0.909512          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33151E+017      5.29854E+017      0                 3.62587E+015      3.281E+014        
+total_destruction               0                 -3.281E+014       -3.62587E+015     0                 -5.29854E+017     
+Rr/Dr                           X                 1614.91           0                 X                 0.000619228       
+
+e + He <=> e + e + He+          0.993815          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904888        0.0904888         1                 
+e + Cu <=> Cu+ + e + e          0.00618542        X                 -0.909511         0.909511          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33159E+017      5.29861E+017      0                 3.62618E+015      3.2813E+014       
+total_destruction               0                 -3.2813E+014      -3.62618E+015     0                 -5.29861E+017     
+Rr/Dr                           X                 1614.79           0                 X                 0.000619276       
+
+e + He <=> e + e + He+          0.993814          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904893        0.0904893         1                 
+e + Cu <=> Cu+ + e + e          0.00618586        X                 -0.909511         0.909511          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33167E+017      5.29868E+017      0                 3.62646E+015      3.28158E+014      
+total_destruction               0                 -3.28158E+014     -3.62646E+015     0                 -5.29868E+017     
+Rr/Dr                           X                 1614.68           0                 X                 0.000619319       
+
+e + He <=> e + e + He+          0.993814          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904898        0.0904898         1                 
+e + Cu <=> Cu+ + e + e          0.00618625        X                 -0.90951          0.90951           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33173E+017      5.29875E+017      0                 3.62672E+015      3.28182E+014      
+total_destruction               0                 -3.28182E+014     -3.62672E+015     0                 -5.29875E+017     
+Rr/Dr                           X                 1614.57           0                 X                 0.000619358       
+
+e + He <=> e + e + He+          0.993813          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904903        0.0904903         1                 
+e + Cu <=> Cu+ + e + e          0.00618661        X                 -0.90951          0.90951           X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33179E+017      5.29881E+017      0                 3.62695E+015      3.28205E+014      
+total_destruction               0                 -3.28205E+014     -3.62695E+015     0                 -5.29881E+017     
+Rr/Dr                           X                 1614.48           0                 X                 0.000619394       
+
+e + He <=> e + e + He+          0.993813          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904907        0.0904907         1                 
+e + Cu <=> Cu+ + e + e          0.00618692        X                 -0.909509         0.909509          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33185E+017      5.29886E+017      0                 3.62715E+015      3.28225E+014      
+total_destruction               0                 -3.28225E+014     -3.62715E+015     0                 -5.29886E+017     
+Rr/Dr                           X                 1614.4            0                 X                 0.000619425       
+
+e + He <=> e + e + He+          0.993813          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.090491         0.090491          1                 
+e + Cu <=> Cu+ + e + e          0.00618721        X                 -0.909509         0.909509          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3319E+017       5.2989E+017       0                 3.62734E+015      3.28243E+014      
+total_destruction               0                 -3.28243E+014     -3.62734E+015     0                 -5.2989E+017      
+Rr/Dr                           X                 1614.32           0                 X                 0.000619454       
+
+e + He <=> e + e + He+          0.993813          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904914        0.0904914         1                 
+e + Cu <=> Cu+ + e + e          0.00618747        X                 -0.909509         0.909509          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33194E+017      5.29895E+017      0                 3.62751E+015      3.28259E+014      
+total_destruction               0                 -3.28259E+014     -3.62751E+015     0                 -5.29895E+017     
+Rr/Dr                           X                 1614.26           0                 X                 0.00061948        
+
+e + He <=> e + e + He+          0.993812          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904917        0.0904917         1                 
+e + Cu <=> Cu+ + e + e          0.00618771        X                 -0.909508         0.909508          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33198E+017      5.29899E+017      0                 3.62766E+015      3.28274E+014      
+total_destruction               0                 -3.28274E+014     -3.62766E+015     0                 -5.29899E+017     
+Rr/Dr                           X                 1614.2            0                 X                 0.000619504       
+
+e + He <=> e + e + He+          0.993812          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904919        0.0904919         1                 
+e + Cu <=> Cu+ + e + e          0.00618792        X                 -0.909508         0.909508          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.332E+017        5.29901E+017      0                 3.62779E+015      3.28287E+014      
+total_destruction               0                 -3.28287E+014     -3.62779E+015     0                 -5.29901E+017     
+Rr/Dr                           X                 1614.14           0                 X                 0.000619526       
+
+e + He <=> e + e + He+          0.993812          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904923        0.0904923         1                 
+e + Cu <=> Cu+ + e + e          0.00618812        X                 -0.909508         0.909508          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33203E+017      5.29903E+017      0                 3.62792E+015      3.28299E+014      
+total_destruction               0                 -3.28299E+014     -3.62792E+015     0                 -5.29903E+017     
+Rr/Dr                           X                 1614.09           0                 X                 0.000619546       
+
+e + He <=> e + e + He+          0.993812          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904925        0.0904925         1                 
+e + Cu <=> Cu+ + e + e          0.0061883         X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33206E+017      5.29906E+017      0                 3.62803E+015      3.2831E+014       
+total_destruction               0                 -3.2831E+014      -3.62803E+015     0                 -5.29906E+017     
+Rr/Dr                           X                 1614.04           0                 X                 0.000619563       
+
+e + He <=> e + e + He+          0.993812          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904927        0.0904927         1                 
+e + Cu <=> Cu+ + e + e          0.00618845        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33208E+017      5.29908E+017      0                 3.62813E+015      3.2832E+014       
+total_destruction               0                 -3.2832E+014      -3.62813E+015     0                 -5.29908E+017     
+Rr/Dr                           X                 1614              0                 X                 0.000619578       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904929        0.0904929         1                 
+e + Cu <=> Cu+ + e + e          0.00618859        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33211E+017      5.29911E+017      0                 3.62821E+015      3.28328E+014      
+total_destruction               0                 -3.28328E+014     -3.62821E+015     0                 -5.29911E+017     
+Rr/Dr                           X                 1613.97           0                 X                 0.000619592       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904931        0.0904931         1                 
+e + Cu <=> Cu+ + e + e          0.00618871        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33213E+017      5.29913E+017      0                 3.6283E+015       3.28336E+014      
+total_destruction               0                 -3.28336E+014     -3.6283E+015      0                 -5.29913E+017     
+Rr/Dr                           X                 1613.93           0                 X                 0.000619604       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904932        0.0904932         1                 
+e + Cu <=> Cu+ + e + e          0.00618882        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33215E+017      5.29915E+017      0                 3.62837E+015      3.28343E+014      
+total_destruction               0                 -3.28343E+014     -3.62837E+015     0                 -5.29915E+017     
+Rr/Dr                           X                 1613.91           0                 X                 0.000619615       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904933        0.0904933         1                 
+e + Cu <=> Cu+ + e + e          0.00618892        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33217E+017      5.29917E+017      0                 3.62844E+015      3.2835E+014       
+total_destruction               0                 -3.2835E+014      -3.62844E+015     0                 -5.29917E+017     
+Rr/Dr                           X                 1613.88           0                 X                 0.000619625       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904935        0.0904935         1                 
+e + Cu <=> Cu+ + e + e          0.00618901        X                 -0.909507         0.909507          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33219E+017      5.29918E+017      0                 3.6285E+015       3.28356E+014      
+total_destruction               0                 -3.28356E+014     -3.6285E+015      0                 -5.29918E+017     
+Rr/Dr                           X                 1613.86           0                 X                 0.000619634       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904936        0.0904936         1                 
+e + Cu <=> Cu+ + e + e          0.0061891         X                 -0.909506         0.909506          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.3322E+017       5.2992E+017       0                 3.62855E+015      3.28361E+014      
+total_destruction               0                 -3.28361E+014     -3.62855E+015     0                 -5.2992E+017      
+Rr/Dr                           X                 1613.83           0                 X                 0.000619643       
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904937        0.0904937         1                 
+e + Cu <=> Cu+ + e + e          0.00618917        X                 -0.909506         0.909506          X                 
+
+Species                         e                 He+               Cu                Cu+               He                
+total_production                5.33222E+017      5.29921E+017      0                 3.6286E+015       3.28366E+014      
+total_destruction               0                 -3.28366E+014     -3.6286E+015      0                 -5.29921E+017     
+Rr/Dr                           X                 1613.81           0                 X                 0.00061965        
+
+e + He <=> e + e + He+          0.993811          1                 X                 X                 -1                
+He+ + Cu <=> He + Cu+           X                 -1                -0.0904938        0.0904938         1                 
+e + Cu <=> Cu+ + e + e          0.00618924        X                 -0.909506         0.909506          X                 
+

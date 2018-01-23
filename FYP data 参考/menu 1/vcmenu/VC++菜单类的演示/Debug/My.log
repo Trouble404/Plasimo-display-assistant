@@ -1,0 +1,66 @@
+﻿生成启动时间为 2016/11/18 20:53:05。
+     1>项目“D:\Work\FYP\FYP data\菜单一\vcmenu\VC++菜单类的演示\My.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\My Programs\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp".\Debug\My.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt StdAfx.cpp
+         StdAfx.cpp
+     1>c:\my programs\microsoft visual studio 2013\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 c:\my programs\microsoft visual studio 2013\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         C:\My Programs\Microsoft Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W1 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp".\Debug\My.pch" /Fo".\Debug\\" /Fd".\Debug\vc120.pdb" /FR".\Debug\\" /Gd /TP /analyze- /errorReport:prompt ADOConn.cpp excel9.cpp FileOperate.cpp Frmdlg.cpp HyperLink.cpp My.cpp MyButton.cpp MyChiToLetter.cpp MyColorList.cpp MyDateEdit.cpp MyExcel.cpp MyHeaderCtrl.cpp MyListCtrl.cpp MyMenu.cpp MyNumEdit.cpp MyPrint.cpp MyTime.cpp MyToolBar.cpp QRSOnLead.cpp
+         QRSOnLead.cpp
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(78): error C2668: “pow”: 对重载函数的调用不明确
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1233): 可能是“long double pow(long double,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1231): 或       “long double pow(long double,long double) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1117): 或       “float pow(float,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1115): 或       “float pow(float,float) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1027): 或       “double pow(double,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(512): 或       “double pow(double,double)”
+                 尝试匹配参数列表“(int, int)”时
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(79): error C2668: “pow”: 对重载函数的调用不明确
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1233): 可能是“long double pow(long double,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1231): 或       “long double pow(long double,long double) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1117): 或       “float pow(float,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1115): 或       “float pow(float,float) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(1027): 或       “double pow(double,int) throw()”
+                 c:\my programs\microsoft visual studio 2013\vc\include\math.h(512): 或       “double pow(double,double)”
+                 尝试匹配参数列表“(int, int)”时
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(449): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(451): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(453): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(454): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(459): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(461): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(462): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(464): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(470): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(472): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(473): error C2065: “i”: 未声明的标识符
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\qrsonlead.cpp(475): error C2065: “i”: 未声明的标识符
+         MyToolBar.cpp
+         MyTime.cpp
+         MyPrint.cpp
+         MyNumEdit.cpp
+         MyMenu.cpp
+         MyListCtrl.cpp
+         MyHeaderCtrl.cpp
+         MyExcel.cpp
+         MyDateEdit.cpp
+         MyColorList.cpp
+         MyChiToLetter.cpp
+         MyButton.cpp
+         My.cpp
+         HyperLink.cpp
+         Frmdlg.cpp
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\frmdlg.cpp(50): error C2440: “static_cast”: 无法从“void (__thiscall Frmdlg::* )(NMTOOLBARA *,LRESULT *)”转换为“void (__thiscall CCmdTarget::* )(NMHDR *,LRESULT *)”
+                 在匹配目标类型的范围内没有具有该名称的函数
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\frmdlg.cpp(50): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+         FileOperate.cpp
+     1>d:\work\fyp\fyp data\菜单一\vcmenu\vc++菜单类的演示\fileoperate.cpp(220): error C2065: “i”: 未声明的标识符
+         excel9.cpp
+         ADOConn.cpp
+         正在生成代码...
+     1>已完成生成项目“D:\Work\FYP\FYP data\菜单一\vcmenu\VC++菜单类的演示\My.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:05.21

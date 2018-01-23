@@ -1,0 +1,125 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: My - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/My.res" /d "_DEBUG" /d "_AFXDLL" "E:\春亮\新建文件夹\菜单类的演示\My.rc"" 
+Creating temporary file "C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP61.tmp" with contents
+[
+/nologo /MDd /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/My.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\春亮\新建文件夹\菜单类的演示\ADOConn.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\excel9.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\FileOperate.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\Frmdlg.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\HyperLink.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\My.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyButton.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyChiToLetter.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyColorList.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyDateEdit.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyExcel.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyHeaderCtrl.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyListCtrl.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyMenu.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyNumEdit.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyPrint.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyTime.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\MyToolBar.cpp"
+"E:\春亮\新建文件夹\菜单类的演示\QRSOnLead.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP61.tmp" 
+Creating temporary file "C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP62.tmp" with contents
+[
+/nologo /MDd /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/My.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\春亮\新建文件夹\菜单类的演示\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP62.tmp" 
+Creating temporary file "C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP63.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/My.pdb" /debug /machine:I386 /out:"Debug/My.exe" /pdbtype:sept 
+".\Debug\ADOConn.obj"
+".\Debug\excel9.obj"
+".\Debug\FileOperate.obj"
+".\Debug\Frmdlg.obj"
+".\Debug\HyperLink.obj"
+".\Debug\My.obj"
+".\Debug\MyButton.obj"
+".\Debug\MyChiToLetter.obj"
+".\Debug\MyColorList.obj"
+".\Debug\MyDateEdit.obj"
+".\Debug\MyExcel.obj"
+".\Debug\MyHeaderCtrl.obj"
+".\Debug\MyListCtrl.obj"
+".\Debug\MyMenu.obj"
+".\Debug\MyNumEdit.obj"
+".\Debug\MyPrint.obj"
+".\Debug\MyTime.obj"
+".\Debug\MyToolBar.obj"
+".\Debug\QRSOnLead.obj"
+".\Debug\StdAfx.obj"
+".\Debug\My.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP63.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+ADOConn.cpp
+excel9.cpp
+FileOperate.cpp
+Frmdlg.cpp
+HyperLink.cpp
+My.cpp
+MyButton.cpp
+MyChiToLetter.cpp
+MyColorList.cpp
+MyDateEdit.cpp
+MyExcel.cpp
+MyHeaderCtrl.cpp
+MyListCtrl.cpp
+MyMenu.cpp
+MyNumEdit.cpp
+MyPrint.cpp
+MyTime.cpp
+MyToolBar.cpp
+QRSOnLead.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP65.tmp" with contents
+[
+/nologo /o"Debug/My.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\ADOConn.sbr"
+".\Debug\excel9.sbr"
+".\Debug\FileOperate.sbr"
+".\Debug\Frmdlg.sbr"
+".\Debug\HyperLink.sbr"
+".\Debug\My.sbr"
+".\Debug\MyButton.sbr"
+".\Debug\MyChiToLetter.sbr"
+".\Debug\MyColorList.sbr"
+".\Debug\MyDateEdit.sbr"
+".\Debug\MyExcel.sbr"
+".\Debug\MyHeaderCtrl.sbr"
+".\Debug\MyListCtrl.sbr"
+".\Debug\MyMenu.sbr"
+".\Debug\MyNumEdit.sbr"
+".\Debug\MyPrint.sbr"
+".\Debug\MyTime.sbr"
+".\Debug\MyToolBar.sbr"
+".\Debug\QRSOnLead.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ooo\LOCALS~1\Temp\RSP65.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+My.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

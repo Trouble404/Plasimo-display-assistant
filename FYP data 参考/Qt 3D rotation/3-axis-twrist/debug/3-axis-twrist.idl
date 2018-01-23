@@ -1,0 +1,201 @@
+/****************************************************************************
+** Interface definition generated for ActiveQt project
+**
+**     'D:\Qt-workSpace\3-axis-twrist\debug\3-axis-twrist.exe'
+**
+** Created:  周二 二月 28 20:34:52 2012
+**
+** WARNING! All changes made in this file will be lost!
+****************************************************************************/
+
+import "ocidl.idl";
+#include <olectl.h>
+
+[
+	uuid(2C3C183A-EEDA-41A4-896E-3D9C12C3577D),
+	version(1.0),
+	helpstring("3-axis-twrist 1.0 Type Library")
+]
+library 3-axis-twristLib
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	/************************************************************************
+	** If this causes a compile error in MIDL you need to upgrade the
+	** Platform SDK you are using. Download the SDK from msdn.microsoft.com
+	** and make sure that both the system and the Visual Studio environment
+	** use the correct files.
+	**
+	** Required version of MIDL could not be verified. QRect, QSize and QPoint
+	** support needs an updated Platform SDK to be installed.
+	*************************************************************************
+
+	[uuid(34030f30-e359-4fe6-ab82-39766f5d91ee)]
+	struct QRect {
+		int left;
+		int top;
+		int right;
+		int bottom;
+	};
+
+	[uuid(cb5f84b3-29e5-491d-ba18-5472488eefba)]
+	struct QSize {
+		int width;
+		int height;
+	};
+
+	[uuid(3be838a3-3fac-bfc4-4c6c-37c44d030252)]
+	struct QPoint {
+		int x;
+		int y;
+	};
+	*/
+
+	/* Forward declaration of classes that might be used as parameters */
+
+	coclass GLBox;
+
+
+	enum MousePointer {
+		ArrowCursor             = 0,
+		UpArrowCursor           = 1,
+		CrossCursor             = 2,
+		WaitCursor              = 3,
+		IBeamCursor             = 4,
+		SizeVerCursor           = 5,
+		SizeHorCursor           = 6,
+		SizeBDiagCursor         = 7,
+		SizeFDiagCursor         = 8,
+		SizeAllCursor           = 9,
+		BlankCursor             = 10,
+		SplitVCursor            = 11,
+		SplitHCursor            = 12,
+		PointingHandCursor      = 13,
+		ForbiddenCursor         = 14,
+		WhatsThisCursor         = 15,
+		BusyCursor	= 16
+	};
+
+	enum FocusPolicy {
+		NoFocus             = 0,
+		TabFocus            = 1,
+		ClickFocus          = 2,
+		StrongFocus         = 11,
+		WheelFocus          = 15
+	};
+
+
+	[
+		uuid(33B051AF-BB25-47CF-A390-5CFD2987D26A),
+		helpstring("GLBox Interface")
+	]
+	dispinterface IGLBox
+	{
+	properties:
+		[id(1), readonly, bindable, requestedit] VARIANT_BOOL modal;
+	/****** Property is of unsupported datatype
+		[id(2), bindable, requestedit] Qt::WindowModality windowModality;
+	******/
+		[id(3), bindable, requestedit] VARIANT_BOOL enabled;
+	/****** Property is of unsupported datatype
+		[id(4), readonly, bindable, requestedit] QRect normalGeometry;
+	******/
+		[id(5), readonly, bindable, requestedit] int x;
+		[id(6), readonly, bindable, requestedit] int y;
+		[id(7), readonly, bindable, requestedit] int width;
+		[id(8), readonly, bindable, requestedit] int height;
+	/****** Property is of unsupported datatype
+		[id(9), bindable, requestedit] QSizePolicy sizePolicy;
+	******/
+		[id(10), bindable, nonbrowsable, requestedit] int minimumWidth;
+		[id(11), bindable, nonbrowsable, requestedit] int minimumHeight;
+		[id(12), bindable, nonbrowsable, requestedit] int maximumWidth;
+		[id(13), bindable, nonbrowsable, requestedit] int maximumHeight;
+	/****** Property is of unsupported datatype
+		[id(14), bindable, requestedit] QPalette palette;
+	******/
+		[id(15), bindable, requestedit] IFontDisp* font;
+		[id(16), bindable, requestedit] enum MousePointer cursor;
+		[id(17), bindable, requestedit] VARIANT_BOOL mouseTracking;
+		[id(18), bindable, requestedit] enum FocusPolicy focusPolicy;
+	/****** Property is of unsupported datatype
+		[id(19), bindable, requestedit] Qt::ContextMenuPolicy contextMenuPolicy;
+	******/
+		[id(20), bindable, nonbrowsable, requestedit] VARIANT_BOOL updatesEnabled;
+		[id(21), readonly, bindable, requestedit] VARIANT_BOOL maximized;
+		[id(22), readonly, bindable, requestedit] VARIANT_BOOL fullScreen;
+		[id(23), bindable, requestedit] VARIANT_BOOL acceptDrops;
+		[id(24), bindable, requestedit] BSTR windowTitle;
+	/****** Property is of unsupported datatype
+		[id(25), bindable, requestedit] QIcon windowIcon;
+	******/
+		[id(26), bindable, requestedit] BSTR windowIconText;
+		[id(27), bindable, requestedit] VARIANT_BOOL windowModified;
+		[id(28), bindable, requestedit] BSTR toolTip;
+		[id(29), bindable, requestedit] BSTR statusTip;
+		[id(30), bindable, requestedit] BSTR whatsThis;
+		[id(31), bindable, requestedit] BSTR accessibleName;
+		[id(32), bindable, requestedit] BSTR accessibleDescription;
+	/****** Property is of unsupported datatype
+		[id(33), bindable, requestedit] Qt::LayoutDirection layoutDirection;
+	******/
+		[id(34), bindable, requestedit] VARIANT_BOOL autoFillBackground;
+		[id(35), bindable, requestedit] BSTR styleSheet;
+	/****** Property is of unsupported datatype
+		[id(36), bindable, requestedit] QLocale locale;
+	******/
+		[id(37), bindable, requestedit] BSTR windowFilePath;
+	/****** Property is of unsupported datatype
+		[id(38), bindable, requestedit] Qt::InputMethodHints inputMethodHints;
+	******/
+
+	methods:
+		[id(39)] void setEnabled([in] VARIANT_BOOL p0);
+		[id(40)] void setDisabled([in] VARIANT_BOOL p0);
+		[id(41)] void setWindowModified([in] VARIANT_BOOL p0);
+		[id(42)] void setWindowTitle([in] BSTR p0);
+		[id(43)] void setStyleSheet([in] BSTR p_styleSheet);
+		[id(44)] void setFocus();
+		[id(45)] void setVisible([in] VARIANT_BOOL p_visible);
+		[id(46)] void show();
+		[id(47)] void hide();
+		[id(48)] VARIANT_BOOL close();
+		[id(49)] void raise();
+		[id(50)] void lower();
+		[id(51)] void updateGL();
+		[id(52)] void updateOverlayGL();
+		[id(53)] void setXRotation([in] int p_degrees);
+		[id(54)] void setYRotation([in] int p_degrees);
+		[id(55)] void setZRotation([in] int p_degrees);
+	};
+
+	[
+		uuid(8C996C29-EAFA-46AC-A6F9-901951E765B5),
+		helpstring("GLBox Events Interface")
+	]
+	dispinterface IGLBoxEvents
+	{
+	properties:
+	methods:
+	/****** Signal parameter uses unsupported datatype
+		[id(1)] void destroyed([in] QObject p0);
+	******/
+		[id(2)] void destroyed_1();
+	/****** Signal parameter uses unsupported datatype
+		[id(3)] void customContextMenuRequested([in] QPoint p_pos);
+	******/
+	};
+
+	[
+		aggregatable,
+		helpstring("GLBox Class"),
+		uuid(5FD9C22E-ED45-43FA-BA13-1530BB6B03E0), 
+		control
+	]
+	coclass GLBox
+	{
+		[default] dispinterface IGLBox;
+		[default, source] dispinterface IGLBoxEvents;
+	};
+};

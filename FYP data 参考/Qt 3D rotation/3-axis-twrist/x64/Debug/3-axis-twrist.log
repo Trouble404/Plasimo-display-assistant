@@ -1,0 +1,43 @@
+﻿生成启动时间为 2016/11/30 2:29:43。
+     1>项目“D:\Work\FYP\FYP data\Qt 3维立体旋转\3-axis-twrist\3-axis-twrist.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing glbox.h...
+         Moc'ing globjwin.h...
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I. /IC:\qt\qt5.7.0\5.7\msvc2013_64\include /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtOpenGL /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\ActiveQt /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtWidgets /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtGui /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtANGLE /IC:\qt\qt5.7.0\5.7\msvc2013_64\include\QtCore /Idebug /I"C:\qt\qt5.7.0\5.7\msvc2013_64\mkspecs\win32-msvc2013" /Zi /nologo /W0 /WX- /Od /D _WINDOWS /D UNICODE /D WIN32 /D WIN64 /D QT_OPENGL_LIB /D QT_AXSERVER_LIB /D QAXSERVER /D QT_AXBASE_LIB /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Debug\moc_glbox.cpp Debug\moc_globjwin.cpp glbox.cpp globjwin.cpp main.cpp
+         moc_glbox.cpp
+         moc_globjwin.cpp
+         glbox.cpp
+         globjwin.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"debug\\3-axis-twrist.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib /LIBPATH:C:\qt\qt5.7.0\5.7\msvc2013_64\lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5OpenGLd.lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5AxServerd.lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5AxBased.lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5Widgetsd.lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5Guid.lib C:\Qt\Qt5.7.0\5.7\msvc2013_64\lib\Qt5Cored.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"debug\3-axis-twrist.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /MACHINE:X64 "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" x64\Debug\moc_glbox.obj
+         x64\Debug\moc_globjwin.obj
+         x64\Debug\glbox.obj
+         x64\Debug\globjwin.obj
+         x64\Debug\main.obj
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glBegin，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glCallList，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glClear，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glDeleteLists，该符号在函数 "public: virtual __cdecl GLBox::~GLBox(void)" (??1GLBox@@UEAA@XZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glEnd，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glEndList，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glFrustum，该符号在函数 "protected: virtual void __cdecl GLBox::resizeGL(int,int)" (?resizeGL@GLBox@@MEAAXHH@Z) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glGenLists，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glLineWidth，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glLoadIdentity，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glMatrixMode，该符号在函数 "protected: virtual void __cdecl GLBox::resizeGL(int,int)" (?resizeGL@GLBox@@MEAAXHH@Z) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glNewList，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glRotatef，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glScalef，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glShadeModel，该符号在函数 "protected: virtual void __cdecl GLBox::initializeGL(void)" (?initializeGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glTranslatef，该符号在函数 "protected: virtual void __cdecl GLBox::paintGL(void)" (?paintGL@GLBox@@MEAAXXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glVertex3f，该符号在函数 "protected: virtual unsigned int __cdecl GLBox::makeObject(void)" (?makeObject@GLBox@@MEAAIXZ) 中被引用
+     1>glbox.obj : error LNK2019: 无法解析的外部符号 __imp_glViewport，该符号在函数 "protected: virtual void __cdecl GLBox::resizeGL(int,int)" (?resizeGL@GLBox@@MEAAXHH@Z) 中被引用
+     1>debug\\3-axis-twrist.exe : fatal error LNK1120: 18 个无法解析的外部命令
+     1>已完成生成项目“D:\Work\FYP\FYP data\Qt 3维立体旋转\3-axis-twrist\3-axis-twrist.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:11.87
