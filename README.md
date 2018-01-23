@@ -15,8 +15,17 @@ C++  Final Year Project in Undergraduate
 
 ---
 
+## Plasimo Display Assistant
+![image](https://github.com/Trouble404/Plasimo-display-assistant/blob/master/readme_pic_add/home.png)
+![image](https://github.com/Trouble404/Plasimo-display-assistant/blob/master/readme_pic_add/plasma-shape.png)
+![image](https://github.com/Trouble404/Plasimo-display-assistant/blob/master/readme_pic_add/line-chart.png)
+![image](https://github.com/Trouble404/Plasimo-display-assistant/blob/master/readme_pic_add/poster.PNG)
+
+---
+
 ## Vedio instruction
-It could see at [here](https://stream.liv.ac.uk/zmx3hu6s)
+**It could see at https://stream.liv.ac.uk/zmx3hu6s**
+
 ![image](https://github.com/Trouble404/Plasimo-display-assistant/blob/master/readme_pic_add/video.PNG)
 
 ## Dowload and Configuration
